@@ -1,0 +1,2 @@
+Calificación shift rigth: 2.2/3
+Si se aumenta otro elemento al array, la función devuelve valores incorrectos
